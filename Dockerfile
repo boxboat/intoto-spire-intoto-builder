@@ -5,3 +5,4 @@ RUN apk --update add py-pip gcc musl-dev python3-dev libffi-dev openssl-dev dock
     pip install in-toto
 
 WORKDIR /app
+COPY ./root.layout /root/root.layout
