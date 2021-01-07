@@ -1,0 +1,156 @@
+{
+ "signatures": [
+  {
+   "keyid": "b77222d9533e550fbcb93e931c7773e9ba4544978d6a8688f37ee2aa7d5e8453",
+   "sig": "99e6d3f0a503171b8f51493823f211142b28b5ceaf5fbecf52771f737ef74944c1dee83b9a3d29306fd2fc240d7420eae88f3fc5163355b3e4e7949ff1c68facd86e5b8faba5aaf84e7591caa05667832e243412b394239af7925b5024771fe5780519a699f5717120c94fba9370a24810bae2fc7af706730fafeaa7ace1b4bab7349515e43a4a6dffcfbda061b9d788dd2e9fd318e7c7a8af27eb2baad7600a45afdd3971d73e6b54434c4096a562b3987bb43d025939eb3bcb92a09caad447e64b98fd4a34780e388fadbbf24a6a4e2791449f637be81571e13611370964deb4268db5ec6f346cf0fa0d4241459adbf0dd5c008117dd044ec7be4a0b9407dc228dbcabdda16460a985599915de4050791f09486b96b77be8bf0a7b91cb99f6d861ca7ef81ed8592c3acbfe962023d07e2b5e09ad3769c562f629d3fd867a96ddbdda97541c9aa0a3ec89dadacc8bc93c22b9d578d48fb088f0fe54ff63527f099fe03dae0016c0ced769eb0f488ba9eed42488f4adf658b5039d2819b4f426"
+  }
+ ],
+ "signed": {
+  "_type": "layout",
+  "expires": "2021-02-07T01:56:47Z",
+  "inspect": [],
+  "keys": {
+   "44eec3c48f793426aeeb6ca2a25214abc3fce6f692c8aa3bd316ff28bdd797fa": {
+    "keyid": "44eec3c48f793426aeeb6ca2a25214abc3fce6f692c8aa3bd316ff28bdd797fa",
+    "keyid_hash_algorithms": [
+     "sha256",
+     "sha512"
+    ],
+    "keytype": "rsa",
+    "keyval": {
+     "private": "",
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEArIIsBTizDNd6IZ2h+B7B\ncAQr6f0ODO26dxPUy0626A1ED/iZkrVb+1J4BhvT8wVb0ebzHj7G90eILltldSuB\ntvtpUq5dSCT79l2gMDoTEee2dVgITFcjGTT6v8RaAnvelgdzv5n3qqlbJGF9Yp9Q\n8DZI7b6uqSMXMbaR4bEuZlZLEoe/4QsfT4EgnYcUouu7cPO38YV4jFvoWq/BjnlM\ncwxUYnWd4Xn39CR/RHD6MWVcmK54FumUvlS7ZT2UxHVwIDScA57J3kEKEwqf61oh\n2bFUIQM43C6JA8g+/AKu+GrOdAB6wTsDkT2g6jG2wGPWVmxNqsSxYdZu9iSes9Kd\nzYUgPbiDgNbr5H2WwnTA2crdAYG/3aM8DydnsCyo2QgBqSbUU5YAb6WHvbE/vhkA\n3lhlcbo1V1XyXoNESmS3DeVAYhaCtl4Qg/+6x+64Wt9E+UORNkCcls3855g4lnah\nGN0SEeDkMpAsdcrXRiwVsaJh9y57Gxw4ptIKsk0/kxP7AgMBAAE=\n-----END PUBLIC KEY-----"
+    },
+    "scheme": "rsassa-pss-sha256"
+   },
+   "938992afa25cb8f2df79995d29bba3dc7e62e60649413f5282447b16632b6491": {
+    "keyid": "938992afa25cb8f2df79995d29bba3dc7e62e60649413f5282447b16632b6491",
+    "keyid_hash_algorithms": [
+     "sha256",
+     "sha512"
+    ],
+    "keytype": "rsa",
+    "keyval": {
+     "private": "",
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEA4el47YYu4AmLa9vWRrSx\nuP9izIbEs/lGL3YLjQj6Joev+PSkaCeBX0BYp6jJzLvsZwN0PHxBQtS9x+E3Tyka\nE1GlkqG1HBFvjTbCVW6L1O5mrRiukv3AIP5vVG2XQVc/kvMzclQiXPmzxoG01Q7U\nF+947iUz45DuCqQYzOvvZT7AdB/r7GRRsinsYaKzjI51Qj7+AmaBgAm7zycg8VzV\nnRAKlMLAGC15tCgsnTxyp7vfTUU3PcsLvUtJSg5Hn1YcU/rC1qGN5OwxAI/i8KWr\n7VuZllb3GVOlMi4SDAM4FFwRNufeKE1AsA9s06BJEJBRB6AJpK+9TgFY0Ry2tcA2\nj1XK9ySQE21U0h8p9LJdqLLN6iZ2fCO43I4iR/5cztiuLTMg2sFMD4ewPj21FhlR\nDxZJoyTC0ew7yLBNoOLoir5JUhZxmHncVf1zghqC00WKNUDBZSFMFc25wtiaTt3D\nPlMq9PJCuZeEaxbg0XOvCmmjf9XxU5cZtpz2ouxltsBnAgMBAAE=\n-----END PUBLIC KEY-----"
+    },
+    "scheme": "rsassa-pss-sha256"
+   },
+   "9db48eded3dfe1123cf92d0147367b3fca332269e854aea65b40e6b4b5df5866": {
+    "keyid": "9db48eded3dfe1123cf92d0147367b3fca332269e854aea65b40e6b4b5df5866",
+    "keyid_hash_algorithms": [
+     "sha256",
+     "sha512"
+    ],
+    "keytype": "rsa",
+    "keyval": {
+     "private": "",
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEA2FOd7sj8MVBjHu53doYI\ndzi126nu0OtZo9wLUHh4JMfhFbGyjrdGR1TRRzk4h6LAYeq07Ro7vYcUrsdJ8YfH\nS4g4IJx2vDmGvO3zn1jIFjxE9+hKWyxnYjI1dJhyfnh5YiE2um7n0vaT1z8A9Qs2\np2SSQTRIs10ebeiQ+B1j8Ma3dKO47dwCui7s+7FNRhmKQJb85Lv1UhRxpDtPwQ4j\nN8cJbWjTb+aNqWcyB+DsVC6MZVHq7cSRBuCEFNDTYNc33rzmDAz0NUvcE7xbp1Gh\n087VLZIWM360IglTA4p7AjUYv2vFZgRUlJclb69I4mdQBKexRZ31yZYgqDid/6j8\nxzBaby4aKS4EUWQyHJXkk9cGV1fMPYjPcTuRYiBO1nQdGze9In+6oxO+RjVBoKqK\n+/NwIJE5fBt9aI0sNYJn5uJcD36AJ3ILSl4GHnbDL/HZJivlPUVPPd3qynbqgW0g\nSl+EmNvcWwEov3w4hua6hkwPofAVmv0wgajIbq6DQPMfAgMBAAE=\n-----END PUBLIC KEY-----"
+    },
+    "scheme": "rsassa-pss-sha256"
+   }
+  },
+  "readme": "",
+  "steps": [
+   {
+    "_type": "step",
+    "expected_command": [
+     "git",
+     "clone",
+     "https://gitlab.com/boxboat/demos/intoto-spire/go-hello-world"
+    ],
+    "expected_materials": [
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "expected_products": [
+     [
+      "CREATE",
+      "*"
+     ]
+    ],
+    "name": "clone",
+    "pubkeys": [
+     "9db48eded3dfe1123cf92d0147367b3fca332269e854aea65b40e6b4b5df5866"
+    ],
+    "threshold": 1
+   },
+   {
+    "_type": "step",
+    "expected_command": [
+     "go",
+     "build",
+     "./..."
+    ],
+    "expected_materials": [
+     [
+      "MATCH",
+      "*",
+      "WITH",
+      "PRODUCTS",
+      "FROM",
+      "clone"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "expected_products": [
+     [
+      "CREATE",
+      "go-hello-world"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "name": "build",
+    "pubkeys": [
+     "44eec3c48f793426aeeb6ca2a25214abc3fce6f692c8aa3bd316ff28bdd797fa"
+    ],
+    "threshold": 1
+   },
+   {
+    "_type": "step",
+    "expected_command": [],
+    "expected_materials": [
+     [
+      "MATCH",
+      "*",
+      "WITH",
+      "PRODUCTS",
+      "FROM",
+      "clone"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "expected_products": [
+     [
+      "CREATE",
+      "image-id"
+     ],
+     [
+      "CREATE",
+      "go-hello-world.tar"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "name": "build-image",
+    "pubkeys": [
+     "938992afa25cb8f2df79995d29bba3dc7e62e60649413f5282447b16632b6491"
+    ],
+    "threshold": 1
+   }
+  ]
+ }
+}
